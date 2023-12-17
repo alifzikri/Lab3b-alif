@@ -16,7 +16,7 @@ import java.util.ArrayList;
  * Created by iqbal on 007, 10/7/18.
  */
 
-public class FoodListAdapter extends BaseAdapter{
+public class FoodListAdapter extends BaseAdapter {
 
     @Override
     public View getView(int position, View view, ViewGroup viewGroup) {
